@@ -18,4 +18,4 @@ Check out the [box score](/assets/img/20180314-boxscore.jpg).
 ![](/assets/img/20180316-kkanbu.jpeg "Kkanbu Dinner with Tito Vince")
 ![](/assets/img/20180315-foggy.jpg "Foggy Day in Digital City")
 
-[back](./blog)
+[back](/blog)

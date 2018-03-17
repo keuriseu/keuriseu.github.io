@@ -12,7 +12,7 @@ We won! Elusive words that I have been longing to say for such a long time now. 
 
 The league now tracks stats which is pretty neat. Seeing your stats after the game gives that professional league feeling. I wish they have started this earlier. 
 
-Check out the ![box score](/assets/img/20180314-boxscore.jpg).
+Check out the [box score](/assets/img/20180314-boxscore.jpg).
 
 ## Snapshots
 ![](/assets/img/20180316-kkanbu.jpeg "Kkanbu Dinner with Tito Vince")

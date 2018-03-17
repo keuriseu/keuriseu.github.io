@@ -5,7 +5,7 @@ date: 2018-03-17 10:27:01 +0900
 categories: blog
 ---
 
-![](media/20180317-facers.jpg)
+![](/assets/img/20180317-facers.jpg "Facers Wanna One 2018")
 
 We won.
 

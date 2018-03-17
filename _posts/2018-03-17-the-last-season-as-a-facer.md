@@ -10,3 +10,6 @@ categories: blog
 We won.
 
 ## Snapshots
+![](/assets/img/20180316-kkanbu.jpg "Kkanbu Dinner with Tito Vince")
+
+![](/assets/img/20180315-foggy.jpg "Foggy Day in Digital City")

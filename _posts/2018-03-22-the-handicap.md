@@ -21,4 +21,7 @@ The Rock is one of the greatest talkers. Such an awesome way to start the day.
 
 ## This week's snapshots
 
+![](/assets/img/20180322-week38.jpg "Week 38")
+![](/assets/img/20180322-pepper.jpg "Pepper got a haircut")
+
 [back](/blog)

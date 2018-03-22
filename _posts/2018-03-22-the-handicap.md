@@ -8,12 +8,11 @@ tags: samsung
 
 Daily meetings have been going on for months now they are brutal.
 
-As a seasoned foreigner, I have been in countless meetings held in Korean. It is a handicap that I have learned to deal with. I thought that this problem will be over once I learned Korean. That I did, but was still not enough. I am a one-way communicator in Korean and it takes a whole new attitude to be able to actively engage in discussions.
+As a seasoned waygook, I have been in countless meetings held in Korean. It is a handicap that I have learned to deal with. I thought that this problem will be over once I learned Korean. That I did, but was still not enough. I am a one-way communicator in Korean and it takes a whole new attitude to be able to actively engage in discussions.
 
-This gives me hope when I finally move to the US. I imagine it would feel like spirit cuffs released *cues epic soundtrack*.
-https://www.youtube.com/watch?v=7WDPgh1nKdw
+This gives me hope when I finally move to the US. I imagine it would feel like spirit cuffs released [*cue epic soundtrack](https://www.youtube.com/watch?v=7WDPgh1nKdw).
 
-Spirit Cuff Pic
+![](/assets/jpg/20180322-spirit-cuffs.jpg "Yusuke Spirit Cuffs")
 
 ## Flavor of the week
 

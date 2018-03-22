@@ -14,8 +14,8 @@ The league now tracks stats which is pretty neat. Seeing your stats after the ga
 
 Check out the [box score](/assets/img/20180314-boxscore.jpg).
 
-## This Week's Snapshots
-![](/assets/img/20180316-kkanbu.jpeg "Kkanbu Dinner with Tito Vince")
-![](/assets/img/20180315-foggy.jpg "Foggy Day in Digital City")
+## This week's snapshots
+![](/assets/img/20180322-week38.jpg "Week 38")
+![](/assets/img/20180322-pepper.jpg "Pepper got a haircut")
 
 [back](/blog)

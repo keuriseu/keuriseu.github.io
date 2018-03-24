@@ -3,12 +3,12 @@ layout: post
 title: The Handicap
 date: 2018-03-22 16:02:01 +0900
 categories: blog
-tags: samsung
+tags: samsung birthday pepper
 ---
 
 Daily meetings have been going on for months now they are brutal.
 
-As a seasoned waygook, I have been in countless meetings held in Korean. It is a handicap that I have learned to deal with. I thought that this problem will be over once I learned Korean. That I did, but was still not enough. I am a one-way communicator in Korean and it takes a whole new attitude to be able to actively engage in discussions.
+As a seasoned waygook, I have been in countless meetings held in Korean. It is a handicap that I have learned to deal with. I thought that this problem will be over once I learned Korean. That I did, but was still not enough. I am a interact in one-way in Korean and it takes a whole new attitude to be able to actively engage in discussions. I've given up long ago with my team and sometimes you just need to hit Refresh.
 
 This gives me hope when I finally move to the US. I imagine it would feel like spirit cuffs released [*cue epic soundtrack](https://www.youtube.com/watch?v=7WDPgh1nKdw).
 
@@ -16,8 +16,12 @@ This gives me hope when I finally move to the US. I imagine it would feel like s
 
 ## Flavor of the week
 
-Throwback The Rock promos - the most electrifying man in sports entertainment.
-The Rock is one of the greatest talkers. Such an awesome way to start the day.
+Started my days this week with [throwback](https://www.youtube.com/watch?v=kz7WpwFd2uU) [The Rock](https://www.youtube.com/watch?v=_4Wtt41lFpE) [promos](https://www.youtube.com/watch?v=cyJn3D2xG24) - *the jabroni beating, pie eating, trail blazing, eyebrow raising, heart stopping, elbow dropping, the most electrifying man in sports entertainment, the People's Champ*.
+
+Binged Jessica Jones Season 2 this week. Facets I like about this damn good series:
+* Kilgrave still haunting Jessica. Kilgrave's mind control was what drew me in the first season. For season 2 it was the mother daughter bond between Jessica and Alisa.
+* Jeri being totally conned by Inez and Shane. How vulnerable people will believe anything as long as it gives them hope and how they can be taken advantage of was too real.
+* Trish killing Jessica's mom and Jessica having restraint to save Trish after that.
 
 ## This week's snapshots
 

@@ -23,5 +23,7 @@ The Rock is one of the greatest talkers. Such an awesome way to start the day.
 
 ![](/assets/img/20180322-week38.jpg "Week 38")
 ![](/assets/img/20180322-pepper.jpg "Pepper got a haircut")
+![](/assets/img/20180324-nurungji.jpg "Dinners with Janghee Eomma are the best")
+![](/assets/img/20180324-noraebang.jpg "Soyeon rocking Taytay songs")
 
 [back](/blog)

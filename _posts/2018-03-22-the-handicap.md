@@ -19,7 +19,7 @@ This gives me hope when I finally move to the US. I imagine it would feel like s
 Started my days this week with [throwback](https://www.youtube.com/watch?v=kz7WpwFd2uU) [The Rock](https://www.youtube.com/watch?v=_4Wtt41lFpE) [promos](https://www.youtube.com/watch?v=cyJn3D2xG24) - *the jabroni beating, pie eating, trail blazing, eyebrow raising, heart stopping, elbow dropping, the most electrifying man in sports entertainment, the People's Champ*.
 
 Binged Jessica Jones Season 2 this week. Facets I like about this damn good series:
-* Kilgrave still haunting Jessica. Kilgrave's mind control was what drew me in the first season. For season 2 it was the mother daughter bond between Jessica and Alisa.
+* Kilgrave still haunting Jessica. I initially thought super strength as a super power was boring and Kilgrave's mind control was what drew me in the first season. For season 2 it was the mother daughter bond between Jessica and Alisa.
 * Jeri being totally conned by Inez and Shane. How vulnerable people will believe anything as long as it gives them hope and how they can be taken advantage of was too real.
 * Trish killing Jessica's mom and Jessica having restraint to save Trish after that.
 

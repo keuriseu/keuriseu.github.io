@@ -15,17 +15,15 @@
     <![endif]-->
   </head>
   <body>
-    <i class="fas fa-user"></i>
-    <i class="far fa-user"></i>
-    <!--brand icon-->
-    <i class="fab fa-github-square"></i>
     <div class="wrapper">
       <header>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+          <p class="view"><a href="{{ site.github.repository_url }}">
+            <i class="fas fa-user"></i>
+            View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}

@@ -2,6 +2,8 @@
 layout: default
 ---
 
-[Link to another page](another-page).
+# Hi
 
-[Link to default page](default).
+My name is Cris.
+
+[Markdown](default).

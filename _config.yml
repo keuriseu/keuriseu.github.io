@@ -6,7 +6,7 @@ google_analytics:
 theme: jekyll-theme-minimal
 
 # Project URL
-permalink:  /work/:title/
+permalink:  /blog/:title/
 
 # Build settings
 markdown: kramdown

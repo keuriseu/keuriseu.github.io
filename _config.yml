@@ -1,5 +1,12 @@
+# Site settings
 title: Bleep Bloop.
 description: You have reached my personal space.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Project URL
+permalink:  /work/:title/
+
+# Build settings
+markdown: kramdown

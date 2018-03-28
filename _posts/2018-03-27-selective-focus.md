@@ -17,3 +17,9 @@ As the article says, it is not only applicable to financial investments, but to 
 Up until I reached thirty, I considered myself young, having enough time to explore, to discover myself. But times are changing and I am still not certain about my identity. Applying for MBA showed me the different opportunities and now it's time to narrow down. At the same time, I am looking to enter consulting for more exposure to different industries and find what I'm truly passionate about.
 
 More realistically speaking, it would take a few more years to narrow down my focus and define my final form. And until then I will continue to change and evolve. All that being said, it will be good to remember that the period of *dipping my toes in the water* is over. It is time to practice persistence and go knee or waist deep.
+
+## New mantra
+
+TTP. This is not related to the Sixers tanking. In fact, I oppose tanking. There are better, more effective ways than tanking. The process you should trust must be legit in the first place.
+
+Achievements that I am proud of have all taken long durations to accomplish. The longer it takes, the more effort you've put in, the greater the obstacle, the sweeter it gets. Not bad for a life mantra. Hence here we are. Trust the process.

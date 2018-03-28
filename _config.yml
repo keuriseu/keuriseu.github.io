@@ -1,7 +1,7 @@
 # Site settings
 title: Bleep Bloop
 description: Trust the process.
-show_downloads: true
+show_downloads: false
 show_tabs: true
 google_analytics:
 theme: jekyll-theme-minimal

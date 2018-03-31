@@ -23,3 +23,9 @@ More realistically speaking, it would take a few more years to narrow down my fo
 TTP. This is not related to the Sixers tanking. In fact, I oppose tanking. There are better, more effective ways than tanking. The process you should trust must be legit in the first place.
 
 Achievements that I am proud of have all taken long durations to accomplish. The longer it takes, the more effort you've put in, the greater the obstacle, the sweeter it gets. Not bad for a life mantra. Hence here we are. Trust the process.
+
+## This week's snapshots
+
+![](/assets/img/20180329-checkup.jpg "The day before")
+![](/assets/img/20180328-guarddog.jpg "Pepper guarding us")
+![](/assets/img/20180328-doghug.jpg "Dog hug")

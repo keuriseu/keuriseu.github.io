@@ -3,7 +3,7 @@ layout: post
 title: Selective Focus
 date: 2018-03-27 15:31:01 +0900
 categories: blog
-tags: 
+tags: pepper finance mantra
 ---
 
 I came across this [article](https://medium.com/the-mission/warren-buffetts-20-slot-rule-how-to-simplify-your-life-and-maximize-your-results-760e7109ffe8). From the Oracle of Omaha:
@@ -28,4 +28,4 @@ Achievements that I am proud of have all taken long durations to accomplish. The
 
 ![](/assets/img/20180329-checkup.jpg "The day before")
 ![](/assets/img/20180328-guarddog.jpg "Pepper guarding us")
-![](/assets/img/20180328-doghug.jpg "Dog hug")
+![](/assets/img/20180328-doghug.jpg "Can't resist hugging this doggie")

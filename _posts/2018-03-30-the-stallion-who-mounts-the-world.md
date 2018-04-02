@@ -19,5 +19,7 @@ Cut the umbilical cord
 
 ![](/assets/img/20180330-prepain.jpg "It's happening")
 ![](/assets/img/20180330-warriors.jpg "We did it!")
-![](/assets/img/20180330-freshlysqueezed.jpg "That's a good-looking baby right there")
-![](/assets/img/20180330-bundleofjoy.jpg "Sleep, little one")
+![](/assets/img/20180330-freshlysqueezed.jpg "That's a handsome baby right there")
+![](/assets/img/20180330-bundleofjoy.jpg "Sleep tight, little one")
+
+[back](/blog)

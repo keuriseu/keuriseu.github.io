@@ -29,3 +29,5 @@ Achievements that I am proud of have all taken long durations to accomplish. The
 ![](/assets/img/20180329-checkup.jpg "The day before")
 ![](/assets/img/20180328-guarddog.jpg "Pepper guarding us")
 ![](/assets/img/20180328-doghug.jpg "Can't resist hugging this doggie")
+
+[back](/blog)

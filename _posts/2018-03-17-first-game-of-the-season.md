@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Game of the Season
+title: Season Opener
 date: 2018-03-17 10:27:01 +0900
 categories: blog
 tags: digitalcity facers basketball pinoys

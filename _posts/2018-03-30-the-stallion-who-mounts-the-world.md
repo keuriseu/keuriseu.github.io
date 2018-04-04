@@ -3,7 +3,7 @@ layout: post
 title: Sean is born
 date: 2018-03-31 11:38:00 +0900
 categories: blog
-tags: sean childbirth
+tags: special sean childbirth
 ---
 
 Thursday night, the doctor said it's still a long way and Sean seems like he doesn't want to come out just yet. We were now looking at some time next week. But then that night, Soyeon had a bloody show. Google said that it was not a sign that labor will start. We sleep and at a bit past midnight, Soyeon woke me up saying the her water broke. Once the water breaks, you need to go to the hospital, so off we go at 1 AM.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sean is born
+title: Sean is Born
 date: 2018-03-31 11:38:00 +0900
 categories: blog
 tags: special sean childbirth

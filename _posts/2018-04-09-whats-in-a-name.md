@@ -19,6 +19,8 @@ insert 할아버지
 
 This is cool.
 
+In English, Sean is the Irish variant of John, meaning God is gracious, or gift from God.
+
 ## Snaps
 
 ![](/assets/img/201804.jpg "")

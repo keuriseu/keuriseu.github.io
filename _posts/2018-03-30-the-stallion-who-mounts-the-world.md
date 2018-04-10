@@ -13,7 +13,7 @@ It's happening. Baby is officially on his way. I would work for 5 hours and then
 
 Cut the umbilical cord
 
-19:32
+On March 30, 2018, 19:32, our son was born.
 
 ## Snaps
 

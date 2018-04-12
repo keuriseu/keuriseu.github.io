@@ -17,9 +17,11 @@ Son, you were originally named 시현 and that's what we called you during your 
 
 insert 할아버지
 
-This is cool.
-
 In English, Sean is the Irish variant of John, meaning God is gracious, or gift from God.
+
+## Game 2
+
+We lost this time. I missed all my shots in the 1st half. I didn't find the shooting touch until the 4th quarter. On top of that, I fouled out. Got myself in trouble in the 1st quarter with three fouls. We just weren't feeling it that night and dug ourselves a hole from the start. Tough loss.
 
 ## Snaps
 

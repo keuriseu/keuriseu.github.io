@@ -29,7 +29,9 @@ I'm not keeping the box score this time. They got stats wrong anyway.
 
 ## Flavor of the week
 
-Finished Love this week. I kept waiting for Mickey to tell Gus about Dustin. It never happened, which sucks. That skeleton in the closet will find its way out in the future somehow. It was a fun series.
+Finished Love this week. I kept waiting for Mickey to tell Gus about Dustin. It never happened, which sucks. That skeleton in the closet will find its way out in the future somehow. I mean, it's great that two people with huge issues found love with each other but keeping the cheating thing from your partner just isn't cool. It was a fun series with lots of low key hilarious moments. Like the one when Gus was asking Arya a favor. Great stuff. 
+
+> I will do this one thing for you. Ever. This will be the one time that I do something for you. Do you want this to be the one time that I do something for you? Your one favor. There's a lot of other things I could do for you. Right. In the world. And you're choosing this. Are you sure about that? - It's scary when you say - Yeah, I hope it's scary. I hope you're very scared because there's a lot of other things I could do for you and this is what you're choosing. Okay.
 
 ## Snaps
 

@@ -15,7 +15,7 @@ Son, you were originally named 시현 and that's what we called you during your 
 시호 시 諡
 선비 언 彦
 
-insert 할아버지
+20180409-hanja
 
 And it doesn't end there. Soyeon will change your chinese name.
 
@@ -35,10 +35,10 @@ Finished Love this week. I kept waiting for Mickey to tell Gus about Dustin. It 
 
 ## Snaps
 
-![](/assets/img/201804.jpg "")
-![](/assets/img/201804.jpg "")
-![](/assets/img/201804.jpg "")
-![](/assets/img/201804.jpg "")
-![](/assets/img/201804.jpg "")
+![](/assets/img/20180409-seanpassport.jpg "Baby headshot")
+![](/assets/img/20180409-sleepingdog.jpg "I'm never gonna leave this bed")
+![](/assets/img/20180411-imissedyou.jpg "I missed you")
+![](/assets/img/20180413-pepper.jpg "Pepper in her new home")
+![](/assets/img/20180414-edandjess.jpg "See you in Illinois")
 
 [back](/blog)

@@ -21,11 +21,15 @@ And it doesn't end there. Soyeon will change your chinese name.
 
 In English, Sean is the Irish variant of John, meaning God is gracious, or gift from God.
 
-## Game 2
+## Week of losses
 
 We lost this time. I missed all my shots in the 1st half. I didn't find the shooting touch until the 4th quarter. On top of that, I fouled out. Got myself in trouble in the 1st quarter with three fouls. We just weren't feeling it that night and dug ourselves a hole from the start. Tough loss. 
 
 I'm not keeping the box score this time. They got stats wrong anyway.
+
+PIKO got creamed by FCIS. I played center throughout and it was tough getting rebounds. I need to be fundamentally sound in that area. Find contact, box out, and grab the ball with two hands. I'll be a better center next time.
+
+And just like that, Pepper is gone. I feel sad whenever I see her pictures and when I walked where we used to walk. But I know she'll be having more fun with Natalia who has more time to spare. You'll always be our girl, Pepper. 
 
 ## Flavor of the week
 

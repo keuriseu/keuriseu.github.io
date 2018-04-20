@@ -17,7 +17,7 @@ Son, you were originally named 시현 and that's what we called you during your 
 
 ![](/assets/img/20180409-hanja.jpg "Hanja")
 
-And it doesn't end there. Soyeon will change your chinese name.
+And it doesn't end there. Soyeon will change your chinese name. 복 시.
 
 In English, Sean is the Irish variant of John, meaning God is gracious, or gift from God.
 
@@ -47,5 +47,7 @@ Finished Love this week. I kept waiting for Mickey to tell Gus about Dustin. It 
 ![](/assets/img/20180414-unlimeat.jpg "Celebrating a loss")
 ![](/assets/img/20180414-beerpong.jpg "BEER PONG")
 ![](/assets/img/20180414-edandjess.jpg "See you in Illinois")
+![](/assets/img/20180414-sentbe.jpg "No good photo in this event")
+![](/assets/img/20180414-piko.jpg "Team PIKO")
 
 [back](/blog)

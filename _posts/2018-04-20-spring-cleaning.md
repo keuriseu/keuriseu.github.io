@@ -14,7 +14,11 @@ I bathed Sean for the first time. He cried a lot after that. Looked like he want
 
 ## Missing Pepper
 
-The house is just not the same without Pepper. It's cleaner, at least. I just hope she finds a temporary home with Natalia and that's the most important.
+The house is just not the same without Pepper. It's cleaner, at least. I just hope she finds a temporary home with Natalia and that's the most important. She seems to be having a more active life with Natalia, walking more than an hour a day.
+
+## Sean is home
+
+Now we have Sean by ourselves, no one to help us. First day has passed and so far so good. He's been a good boy. House is cleaner too. We'll see what it's really gonna be like in the next week.
 
 ## Snaps
 
@@ -27,5 +31,9 @@ The house is just not the same without Pepper. It's cleaner, at least. I just ho
 ![](/assets/img/20180419-yellowtulips.jpg "Beautiful...")
 ![](/assets/img/20180419-centralparktulips.jpg "...in clusters")
 ![](/assets/img/20180418-texpress.jpg "Look what I found")
+![](/assets/img/20180418-fatherandson.jpg "Father and son")
+![](/assets/img/20180420-motheranddaughter.jpg "Mother and daughter")
+![](/assets/img/20180420-pepper.jpg "Doggie hug")
+![](/assets/img/20180421-seanshome.jpg "Sean is home")
 
 [back](/blog)

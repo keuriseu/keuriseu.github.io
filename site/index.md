@@ -11,4 +11,8 @@ title: Space Dust
 * [Attention Hacking](https://hackernoon.com/attention-hacking-is-the-epidemic-of-our-generation-e212e111c675)
 * [Diamond Advertising](https://www.theatlantic.com/international/archive/2015/02/how-an-ad-campaign-invented-the-diamond-engagement-ring/385376/)
 
+## Speeches
+
+* [TBA](kaist-seminar.md)
+
 > "Just poopin'. You know how I be."

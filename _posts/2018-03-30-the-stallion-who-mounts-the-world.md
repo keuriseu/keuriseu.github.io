@@ -15,6 +15,12 @@ Cut the umbilical cord
 
 On March 30, 2018, 19:32, our son was born.
 
+| Month | Weight (kg) |
+| --------|---------|
+| 0 | 3.86 |
+| 1 | 5.4  |
+| 2 |  |
+
 ## Snaps
 
 ![](/assets/img/20180330-prepain.jpg "It's happening")

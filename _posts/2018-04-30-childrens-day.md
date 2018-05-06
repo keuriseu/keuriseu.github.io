@@ -3,7 +3,7 @@ layout: post
 title: Children's Day
 date: 2018-04-30 23:02:00 +0900
 categories: blog
-tags: kaist
+tags: kaist grandparents
 ---
 
 Regarding parenting, still learning the ropes. I think of Sean as little Cris. It really does get frustrating when you are doing something and the baby cries. There is something about a crying baby that messes with your system that you won't be able to do anything else. The black mirror episode where you can mute the sounds around you comes to mind.

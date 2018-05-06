@@ -27,8 +27,8 @@ Watched Avengers Infinity War and I thought I should watch the other movies that
 ![](/assets/img/20180430-onemonth.jpg "1 month")
 ![](/assets/img/20180505-pepper.jpg "This sucky camera")
 ![](/assets/img/20180505-newtricks.jpg "This doggie learned new tricks")
-![](/assets/img/20180505-seanwithgrandma.jpg "Sean with grandma")
-![](/assets/img/20180506-generations.jpg "Sean with grandma")
+![](/assets/img/20180504-seanwithgrandma.jpg "Sean with grandma")
+![](/assets/img/20180506-generations.jpg "Visit on Parent's day")
 ![](/assets/img/20180506-greatgrandma.jpg "Smiling for great grandma")
 ![](/assets/img/20180504-boss.jpg "Like a boss")
 

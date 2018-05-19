@@ -8,7 +8,7 @@ tags: shuffle pushup
 
 I challenge myself to shuffle and to do push ups everyday. Sometimes you need that extra push and that will be provided by an app. Recording helps. Reminding helps. Building momentum helps. And that is what the will, I'm hoping, provide.
 
-![](/assets/img/20180512-shuffle.gif "Party rock!")
+![](/assets/img/1805/20180512-shuffle.gif "Party rock!")
 
 But why shuffle? I can't dance and I am 31. At this point I have accepted that I am awkward and my body was never made to move to entertain. And that's fine. But I also think that if you train your body enough you will see results. So this week I have started to shuffle. Let's see what happens after some (long) time.
 

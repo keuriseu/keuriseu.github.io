@@ -23,12 +23,12 @@ On March 30, 2018, 19:32, our son was born.
 
 ## Snaps
 
-![](/assets/img/20180330-prepain.jpg "It's happening")
-![](/assets/img/20180330-warriors.jpg "We did it!")
-![](/assets/img/20180330-freshlysqueezed.jpg "That's a handsome baby right there")
-![](/assets/img/20180330-bundleofjoy.jpg "Sleep tight, little one")
-![](/assets/img/20180402-littleprince1.jpg "Little Prince")
-![](/assets/img/20180402-littleprince2.jpg "Little Prince")
-![](/assets/img/20180402-littleprince3.jpg "Little Prince")
+![](/assets/img/1803/20180330-prepain.jpg "It's happening")
+![](/assets/img/1803/20180330-warriors.jpg "We did it!")
+![](/assets/img/1803/20180330-freshlysqueezed.jpg "That's a handsome baby right there")
+![](/assets/img/1803/20180330-bundleofjoy.jpg "Sleep tight, little one")
+![](/assets/img/1804/20180402-littleprince1.jpg "Little Prince")
+![](/assets/img/1804/20180402-littleprince2.jpg "Little Prince")
+![](/assets/img/1804/20180402-littleprince3.jpg "Little Prince")
 
 [back](/blog)

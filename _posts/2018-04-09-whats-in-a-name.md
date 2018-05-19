@@ -15,7 +15,7 @@ Son, you were originally named 시현 and that's what we called you during your 
 시호 시 諡
 선비 언 彦
 
-![](/assets/img/20180409-hanja.jpg "Hanja")
+![](/assets/img/1804/20180409-hanja.jpg "Hanja")
 
 And it doesn't end there. Soyeon will change your chinese name. 복 시.
 
@@ -39,15 +39,15 @@ Finished Love this week. I kept waiting for Mickey to tell Gus about Dustin. It 
 
 ## Snaps
 
-![](/assets/img/20180409-seanpassport.jpg "Baby headshot")
-![](/assets/img/20180409-sleepingdog.jpg "I'm never gonna leave this bed")
-![](/assets/img/20180411-imissedyou.jpg "I missed you")
-![](/assets/img/20180413-livingthelife.jpg "This is the life")
-![](/assets/img/20180413-pepper.jpg "Pepper in her new home")
-![](/assets/img/20180414-unlimeat.jpg "Celebrating a loss")
-![](/assets/img/20180414-beerpong.jpg "BEER PONG")
-![](/assets/img/20180414-edandjess.jpg "See you in Illinois")
-![](/assets/img/20180414-sentbe.jpg "No good photo in this event")
-![](/assets/img/20180414-piko.jpg "Team PIKO")
+![](/assets/img/1804/20180409-seanpassport.jpg "Baby headshot")
+![](/assets/img/1804/20180409-sleepingdog.jpg "I'm never gonna leave this bed")
+![](/assets/img/1804/20180411-imissedyou.jpg "I missed you")
+![](/assets/img/1804/20180413-livingthelife.jpg "This is the life")
+![](/assets/img/1804/20180413-pepper.jpg "Pepper in her new home")
+![](/assets/img/1804/20180414-unlimeat.jpg "Celebrating a loss")
+![](/assets/img/1804/20180414-beerpong.jpg "BEER PONG")
+![](/assets/img/1804/20180414-edandjess.jpg "See you in Illinois")
+![](/assets/img/1804/20180414-sentbe.jpg "No good photo in this event")
+![](/assets/img/1804/20180414-piko.jpg "Team PIKO")
 
 [back](/blog)

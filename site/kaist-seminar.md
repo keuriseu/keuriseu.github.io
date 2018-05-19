@@ -51,6 +51,7 @@ VI. What was it like working for a Korean company?
 
 VII. Conclusion
 ..* I am always grateful.
+
 ..* Contact me @
 
 

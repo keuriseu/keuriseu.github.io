@@ -22,13 +22,14 @@ This week I watched David Letterman's My Next Guest Needs No Introduction with g
 
 ## Snaps
 
-![](/assets/img/20180511-visashots.jpg "Ready for the US")
-![](/assets/img/20180510-tm1.jpg "Best Evaluators")
-![](/assets/img/20180510-tm2.jpg "Best Table Topics")
-![](/assets/img/20180510-tm3.jpg "Best Speaker")
-![](/assets/img/20180509-sean.jpg "What?")
-![](/assets/img/20180512-babypants.jpg "Happy baby")
-![](/assets/img/20180512-kellogg20.jpg "Kellogg 2020")
-![](/assets/img/20180512-kbc.jpg "Kellogg KBC")
+![](/assets/img/1805/20180511-visashots.jpg "Ready for the US")
+![](/assets/img/1805/20180510-tm1.jpg "Best Evaluators")
+![](/assets/img/1805/20180510-tm2.jpg "Best Table Topics")
+![](/assets/img/1805/20180510-tm3.jpg "Best Speaker")
+![](/assets/img/1805/20180509-sean.jpg "What?")
+![](/assets/img/1805/20180512-babypants.jpg "Happy baby")
+![](/assets/img/1805/0180512-kellogg20.jpg "Kellogg 2020")
+![](/assets/img/1805/20180512-kbc.jpg "Kellogg KBC")
+![](/assets/img/1805/20180511-kbcall.jpg "Kellogg KBC")
 
 [back](/blog)

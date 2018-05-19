@@ -16,14 +16,14 @@ Santa Clarita Diet. A show that I didn't know what to expect. It turns out it's 
 
 ## Snaps
 
-![](/assets/img/20180422-leavingjoriwon.jpg "Taking Sean home")
-![](/assets/img/20180423-passport.jpg "Another passport photo")
-![](/assets/img/20180425-babyfeet.jpg "Baby feet")
-![](/assets/img/20180424-sleep.jpg "When you sleep I sleep")
-![](/assets/img/20180425-shoulder.jpg "Put your head on my shoul~der")
-![](/assets/img/20180426-grandmacooks.jpg "Showing us how it's done")
-![](/assets/img/20180426-grandmaandsean.jpg "Grandma and grandson")
-![](/assets/img/20180426-angel.jpg "An angel... when he sleeps")
-![](/assets/img/20180428-breakaway.jpg "Breakaway layup is no good")
+![](/assets/img/1804/20180422-leavingjoriwon.jpg "Taking Sean home")
+![](/assets/img/1804/20180423-passport.jpg "Another passport photo")
+![](/assets/img/1804/20180425-babyfeet.jpg "Baby feet")
+![](/assets/img/1804/20180424-sleep.jpg "When you sleep I sleep")
+![](/assets/img/1804/20180425-shoulder.jpg "Put your head on my shoul~der")
+![](/assets/img/1804/20180426-grandmacooks.jpg "Showing us how it's done")
+![](/assets/img/1804/20180426-grandmaandsean.jpg "Grandma and grandson")
+![](/assets/img/1804/20180426-angel.jpg "An angel... when he sleeps")
+![](/assets/img/1804/20180428-breakaway.jpg "Breakaway layup is no good")
 
 [back](/blog)

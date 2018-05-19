@@ -22,14 +22,14 @@ Watched Avengers Infinity War and I thought I should watch the other movies that
 
 ## Snaps
 
-![](/assets/img/20180430-rugged.jpg "No shaving for two weeks")
-![](/assets/img/20180430-fampic.jpg "Family pic")
-![](/assets/img/20180430-onemonth.jpg "1 month")
-![](/assets/img/20180505-pepper.jpg "This sucky camera")
-![](/assets/img/20180505-newtricks.jpg "This doggie learned new tricks")
-![](/assets/img/20180504-seanwithgrandma.jpg "Sean with grandma")
-![](/assets/img/20180506-generations.jpg "Visit on Parent's day")
-![](/assets/img/20180506-greatgrandma.jpg "Smiling for great grandma")
-![](/assets/img/20180504-boss.jpg "Like a boss")
+![](/assets/img/1804/20180430-rugged.jpg "No shaving for two weeks")
+![](/assets/img/1804/20180430-fampic.jpg "Family pic")
+![](/assets/img/1804/20180430-onemonth.jpg "1 month")
+![](/assets/img/1805/20180505-pepper.jpg "This sucky camera")
+![](/assets/img/1805/20180505-newtricks.jpg "This doggie learned new tricks")
+![](/assets/img/1805/20180504-seanwithgrandma.jpg "Sean with grandma")
+![](/assets/img/1805/20180506-generations.jpg "Visit on Parent's day")
+![](/assets/img/1805/20180506-greatgrandma.jpg "Smiling for great grandma")
+![](/assets/img/1805/20180504-boss.jpg "Like a boss")
 
 [back](/blog)

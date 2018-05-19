@@ -12,7 +12,7 @@ As a seasoned waygook, I have been in countless meetings held in Korean. It is a
 
 This gives me hope when I finally move to the US. I imagine it would feel like spirit cuffs released [*cue epic soundtrack](https://www.youtube.com/watch?v=7WDPgh1nKdw).
 
-![](/assets/jpg/20180322-spirit-cuffs.jpg "Yusuke Spirit Cuffs")
+![](/assets/jpg/1803/20180322-spirit-cuffs.jpg "Yusuke Spirit Cuffs")
 
 ## Flavor of the week
 
@@ -25,9 +25,9 @@ Binged Jessica Jones Season 2 this week. Facets I like about this damn good seri
 
 ## This week's snapshots
 
-![](/assets/img/20180322-week38.jpg "Week 38")
-![](/assets/img/20180322-pepper.jpg "Pepper got a haircut")
-![](/assets/img/20180324-nurungji.jpg "Dinners with Janghee Eomma are the best")
-![](/assets/img/20180324-noraebang.jpg "Soyeon rocking Taytay songs")
+![](/assets/img/1803/20180322-week38.jpg "Week 38")
+![](/assets/img/1803/20180322-pepper.jpg "Pepper got a haircut")
+![](/assets/img/1803/20180324-nurungji.jpg "Dinners with Janghee Eomma are the best")
+![](/assets/img/1803/20180324-noraebang.jpg "Soyeon rocking Taytay songs")
 
 [back](/blog)

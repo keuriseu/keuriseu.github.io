@@ -51,7 +51,7 @@ VI. What was it like working for a Korean company?
 
 VII. Conclusion
 ..* I am always grateful.
-
+..* Now that my time in Korea is nearing it's end, I feel lucky for everything that happened to me. You can trace it back from the beginning of my life in Korea which was in KAIST. Lucky that my professor chose me among a stack of applications. Lucky to have been hired in Samsung. Lucky to have worked in exciting research areas I always wanted to work at. Lucky for the opportunity to have worked with intelligent colleagues and been sent to different places. To have learned and grown. I envy you students to be in your position because I know that it will be a great adventure, whatever it may be. Good luck and enjoy the ride.
 ..* Contact me @
 
 

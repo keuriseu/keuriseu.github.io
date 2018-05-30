@@ -12,6 +12,11 @@ Tuesday, coming back from basketball, picked up by Soyeon and Sean, I was gettin
 
 LeBron, man. 8 consecutive trips to the finals. Leading a team reassembled mid-season, playing 24 games together, to the finals. What more can ask for from this guy? Breaking records. Dominating at 33. We are all witnessing greatness. Long live the King!
 
+## Quote of the week
+
+Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
+-Albert Einstein
+
 ## Snaps
 ![](/assets/img/1805/20180521-r3.jpg "R3")
 ![](/assets/img/1805/20180520-baby1.jpg "50 days")

@@ -12,6 +12,10 @@ Tuesday, coming back from basketball, picked up by Soyeon and Sean, I was gettin
 
 LeBron, man. 8 consecutive trips to the finals. Leading a team reassembled mid-season, playing 24 games together, to the finals. What more can ask for from this guy? Breaking records. Dominating at 33. We are all witnessing greatness. Long live the King!
 
+## Why rings aren't be-all and end-all
+
+The remaining argument against LeBron is his finals record. 3-5 and soon to be 3-6. This doesn't mean that he chokes on the biggest stage or that he doesn't have that killer instinct that MJ, with his perfect 6 and 0, had. But look at the odds. LeBron has been favored just twice, competing against great all-time teams that he actually stole the limelight from. He (his teams) managed to beat the odds and bring home 3 championships, including the biggest upset in history. Compare this with Kobe whose teams were favored 7 out of 7 times but brought home 5 rings, having Shaq, the most dominant big man in the game, on his side for 3 of those years. Just give LeBron his due. He is a true underdog who had odds against him from the beginning but consistently proves doubters wrong.
+
 ## Quote of the week
 
 Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.

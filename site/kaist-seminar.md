@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TBA
+title: KAIST Career Seminar
 ---
 
 ## The deets
@@ -19,3 +19,5 @@ title: TBA
 ![](/assets/img/1806/20180601-kcs3.jpg "KAIST Career Seminar")
 ![](/assets/img/1806/20180601-kcs4.jpg "KAIST Career Seminar")
 ![](/assets/img/1806/20180601-kcs5.jpg "KAIST Career Seminar")
+
+[back](/site)

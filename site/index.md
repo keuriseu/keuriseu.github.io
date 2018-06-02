@@ -13,6 +13,6 @@ title: Space Dust
 
 ## Speeches
 
-* [TBA](kaist-seminar)
+* [KAIST Career Seminar](kaist-seminar)
 
 > "Just poopin'. You know how I be."

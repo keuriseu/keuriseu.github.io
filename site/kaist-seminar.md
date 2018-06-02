@@ -14,8 +14,8 @@ title: TBA
 ## Memory Lane
 
 ## Snaps
-![](/assets/img/1805/20180601-kcs1.jpg "KAIST Career Seminar")
-![](/assets/img/1805/20180601-kcs2.jpg "KAIST Career Seminar")
-![](/assets/img/1805/20180601-kcs3.jpg "KAIST Career Seminar")
-![](/assets/img/1805/20180601-kcs4.jpg "KAIST Career Seminar")
-![](/assets/img/1805/20180601-kcs5.jpg "KAIST Career Seminar")
+![](/assets/img/1806/20180601-kcs1.jpg "KAIST Career Seminar")
+![](/assets/img/1806/20180601-kcs2.jpg "KAIST Career Seminar")
+![](/assets/img/1806/20180601-kcs3.jpg "KAIST Career Seminar")
+![](/assets/img/1806/20180601-kcs4.jpg "KAIST Career Seminar")
+![](/assets/img/1806/20180601-kcs5.jpg "KAIST Career Seminar")

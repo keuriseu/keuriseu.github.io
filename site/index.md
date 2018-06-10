@@ -10,9 +10,11 @@ title: Space Dust
 * [Minimalism](https://hackernoon.com/the-reason-why-mark-zuckerberg-wears-the-same-shirt-everyday-68e4f907f661)
 * [Attention Hacking](https://hackernoon.com/attention-hacking-is-the-epidemic-of-our-generation-e212e111c675)
 * [Diamond Advertising](https://www.theatlantic.com/international/archive/2015/02/how-an-ad-campaign-invented-the-diamond-engagement-ring/385376/)
+* [It's OK to cry](https://qz.com/1297337/japanese-politicians-are-pushing-to-end-the-stigma-against-crying-babies/)
 
-## Speeches
+## Specials
 
 * [KAIST Career Seminar](kaist-seminar)
+* [Balled Out in Korea](balled-out)
 
 > "Just poopin'. You know how I be."

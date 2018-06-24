@@ -16,6 +16,9 @@ As an NBA fan without a home team, I suddenly find myself rooting for Chicago in
 ![](/assets/img/1806/20180619-ming.jpg "In Myeongdong")
 ![](/assets/img/1806/20180619-withming.jpg "With Ming")
 ![](/assets/img/1806/20180619-r3.jpg "R3")
+![](/assets/img/1806/20180621-incar.jpg "In car")
 ![](/assets/img/1806/20180622-bigbaby.jpg "Big baby")
+![](/assets/img/1806/20180623-bigbabies.jpg "Big babies")
+
 
 [back](/blog)

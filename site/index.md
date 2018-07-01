@@ -15,6 +15,6 @@ title: Space Dust
 ## Specials
 
 * [KAIST Career Seminar](kaist-seminar)
-* [Balled Out in Korea](balled-out)
+* [Basketball Never Stops](balled-out)
 
 > "Just poopin'. You know how I be."

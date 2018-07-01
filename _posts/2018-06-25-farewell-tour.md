@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Untitled
+title: Farewell Tour
 date: 2018-06-25 12:54:00 +0900
 categories: blog 
 tags: piko meko pepper basketball
@@ -14,7 +14,7 @@ I felt that my parents enjoyed their short stay in Korea. I never knew for sure,
 
 I played my last game in an Iskolars uniform under the scorching sun. Too bad we lost. I couldn't buy a bucket in the final game. That was quite an experience playing 40 minutes against a scrappy team and with both my legs cramping. But there was no way I'm leaving the game. It was an honor, guys. Great playing with you.
 
-We partied all night in Gangnam to retire my and Ed's jerseys. Something I have never done before. Lack of sleep really bit me in the ass the following day. It was fun playing basketball and partying with Pinoys. Nothing like the fun you have with your fellow kababayan.
+We partied all night in Gangnam to retire my and Ed's jerseys. Something I have never done before. Lack of sleep really bit me in the ass the following day. It was fun playing basketball and partying with Pinoys. Nothing like the fun you have with your fellow kababayan. Barbecue, singing OPM, billiards, chicken, beer and the LeBron debate. Great night all around.
 
 [About McKinsey and government consulting.](https://www.nytimes.com/2018/06/26/world/africa/mckinsey-south-africa-eskom.html)
 

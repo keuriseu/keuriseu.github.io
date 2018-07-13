@@ -6,11 +6,16 @@ categories: blog
 tags: sotm facers
 ---
 
-I delivered my farewell speech disguised as an ice breaker. It is amazing how everything came around the way it did. It did not take long for me to prepare for this speech which according to my personal evaluation, I delivered pretty well. It's sad to leave SOTM, knowing I could have done more. We could have reached more people. I'm proud of the journey I took to reach this point.
+> The weird thing is now I'm exactly where I want to be. I've got my dream job at Cornell, and I'm still just thinking about my old pals. Only now they're the ones I made here. I wish there was a way to know you're in "the good old days", before you've actually left them.
+> -Andy Bernard
 
-This week although not in photos was the farewell from Facers. I appreciate their kind words. Again it's sad to leave Facers, without winning enough and knowing my team better. Who knows what we could have achieved this season. I wish them all the best. I look back at my first year as a bench player, and appreciate the strides I made with my game. 
+Some feelings you just don't expect. Especially for someone who was itching to leave and go to a better place, I find myself realizing that my current situation isn't all that bad that I picture it to be. Regret is also hanging around, because these are great people that have surrounded me throughout the years. Why did I not grab the chances to reach out, to socialize, to live. But all of that is in the past now. I believe my personality has changed. Everyday is part of the learning process.
 
-It has been tiring commuting to Ansan. Seeing this house makes me realize how important space is. I have stayed too long in small houses. Mother in law has been great, and so are Soyeon's other relatives. I wish I got to know them better.
+## The best words someone said to me
+
+Acting as the president of SOTM made it clear what my tendencies are as a leader. I had the vision of what the club could be. We had taken great steps to becoming a better club. I did play a role in that, along with reliable officers. Hearing Dev speak about me provided the confirmation that I would ever need, if ever I needed that. I am someone who works consistently, sometimes at the background, not wanting credit for the work done, but a lot of times to a fault. I need to find the balance between being the vocal leader as compared to the leader who leads through actions.
+
+Like I said, Toastmasters has been a 
 
 ![](/assets/img/1807/20180701-pepper.jpg "Miss Pepper")
 ![](/assets/img/1807/20180704-tiringday.jpg "Tiring Day")

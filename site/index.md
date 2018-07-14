@@ -11,6 +11,7 @@ title: Space Dust
 * [Attention Hacking](https://hackernoon.com/attention-hacking-is-the-epidemic-of-our-generation-e212e111c675)
 * [Diamond Advertising](https://www.theatlantic.com/international/archive/2015/02/how-an-ad-campaign-invented-the-diamond-engagement-ring/385376/)
 * [It's OK to cry](https://qz.com/1297337/japanese-politicians-are-pushing-to-end-the-stigma-against-crying-babies/)
+* [Probability is not always intuitive]
 
 ## Specials
 

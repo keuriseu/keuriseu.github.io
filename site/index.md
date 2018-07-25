@@ -17,5 +17,6 @@ title: Space Dust
 
 * [KAIST Career Seminar](kaist-seminar)
 * [Basketball Never Stops](balled-out)
+* [ACE 3 Minute Intro](ace-intro)
 
 > "Just poopin'. You know how I be."

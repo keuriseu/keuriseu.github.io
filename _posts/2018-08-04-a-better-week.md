@@ -10,6 +10,8 @@ It's a better week. We are getting acclimated to our house. There's so many good
 
 Sean had his first fever and it was quite a scare. Doctors and nurses here are more engaging socially than in Korea - a welcome change. Although the visit took a lot more time. A tradeoff with efficiency.
 
+On Sean's 4th month of life, he is 76th percentile in weight (7.5 kg), and 99th!!! percentile in height (27 in). The dream is alive!
+
 It's gonna be tough being a parent in this schedule. These two years will be a balancing act. I hope it all works out in the end.
 
 ## Language and Prejudice

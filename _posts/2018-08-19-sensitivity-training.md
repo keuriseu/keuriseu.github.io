@@ -16,6 +16,10 @@ I convinced Liliia to do this and I really hope that in the end she found it wor
 
 In an awkward situation I misjudged that it was okay to bring up to Koreans and Japanese how Filipinos do not feel hatred towards our former colonizers. And I know more than the average person why that is. I should have been more sensitive instead of trying to instigate conversation. Maybe it was for the better, maybe it is not. It was interesting for me to hear the Japanese side from Takuya. This week I have learned a valuable lesson about working in global environments that I haven't considered before.
 
+## How not to dinner party
+
+So my first dinner party was meh. And I think I know the culprit. Do not talk about terrorism and war right of the bat. I'm not sure if you should do that at all with people you are meeting for the first time. Do not go on and on about something. Yeah you know a lot of things and you can contribute in all topics, but you don't have to and you shouldn't. Damn! Zero self-awareness. Sorry for the hate post. But now I know who to avoid in dinner parties. Shit, hearing how fun all other dinner parties were makes me wonder how a dinner party can be so intense and serious.
+
 ## In other news
 
 My hands shook again holding a piece of paper. Molly commented that I was still able to deliver a speech despite being nervous. I am not sure if it is nervousness at this point. But in the future, I must not violate a cardinal sin, do not bring a paper on stage. Memorize it.

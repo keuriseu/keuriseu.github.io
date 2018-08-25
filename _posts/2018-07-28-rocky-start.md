@@ -20,6 +20,8 @@ Went to Chicago, did CityHunt, and won! It was great teamwork from Brunna, Rosa,
 
 And so it began. :)
 
+## Snaps
+
 ![](/assets/img/1807/20180721-100days.jpg "100 days")
 ![](/assets/img/1807/20180721-babies.jpg "100 Babies")
 ![](/assets/img/1807/20180721-momandson.jpg "Soyeon and Sean")

@@ -13,6 +13,7 @@ It was a blast. We stayed in a condo in Boryeong, met Soyeon's mom and dad, drov
 I didn't realize that it was my first Fathers day as a dad. 
 
 ## Snaps
+
 ![](/assets/img/1806/fd/01.jpg "The weekend")
 ![](/assets/img/1806/fd/02.jpg "The weekend")
 ![](/assets/img/1806/fd/03.jpg "The weekend")

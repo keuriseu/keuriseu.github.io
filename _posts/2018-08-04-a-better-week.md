@@ -18,6 +18,8 @@ It's gonna be tough being a parent in this schedule. These two years will be a b
 
 A question I have always had is the way African Americans say ask (aks). Who better to ask than a doctor in linguistics. Interestingly, people judge by the way someone speaks. An English accent is regarded as prestigious whereas the language African Americans use are regarded as wrong. Who is to say what is wrong or not? Who decides which way is the standard way of speaking English? Things are just the way they are.
 
+## Snaps
+
 ![](/assets/img/1808/20180801-checkup.jpg "Northshore")
 ![](/assets/img/1808/20180801-goodmorning.jpg "Good morning")
 ![](/assets/img/1808/20180801-theloop.jpg "The L")

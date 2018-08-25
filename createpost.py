@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Sensitivity Training"
+TITLE = "Incorporate Impact"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

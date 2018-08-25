@@ -24,6 +24,7 @@ Everybody is a genius. But if you judge a fish by its ability to climb a tree, i
 -Albert Einstein
 
 ## Snaps
+
 ![](/assets/img/1805/20180530-anyang.jpg "Once I missed my stop")
 ![](/assets/img/1805/20180530-birthdaydinner.jpg "Sean's first dinner out")
 ![](/assets/img/1805/20180530-cutesae.jpg "Cute babies")

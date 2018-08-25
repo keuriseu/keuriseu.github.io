@@ -22,6 +22,8 @@ Things are starting to become awesome!
 
 Shit I have lots of white hair!
 
+## Snaps
+
 ![](/assets/img/1808/20180805-babies.jpg "Babies")
 ![](/assets/img/1808/20180805-botanicgardens.jpg "Botanic Gardens")
 ![](/assets/img/1808/20180805-soyeon.jpg "Soyeon")

@@ -18,6 +18,8 @@ We partied all night in Gangnam to retire my and Ed's jerseys. Something I have 
 
 [About McKinsey and government consulting.](https://www.nytimes.com/2018/06/26/world/africa/mckinsey-south-africa-eskom.html)
 
+## Snaps
+
 ![](/assets/img/1806/20180624-hangangleague.jpg "Hangang League")
 ![](/assets/img/1806/20180624-hangangheat.jpg "Hangang Heat")
 ![](/assets/img/1806/20180629-retired.jpg "#3 Retired")

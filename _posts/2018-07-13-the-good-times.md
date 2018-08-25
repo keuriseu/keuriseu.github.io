@@ -25,6 +25,8 @@ Toastmasters has been good to me. The love I received throughout this whole fare
 
 At that moment, I realized that there was nothing else I can do. I broke down. I cried. I felt sorry for Pepper. She became my responsibility once I decided to adopt her. It is sad that it had to turn out like this. Sad that Natalia had allergies. Sad that we couldn't bring her with us. Pepper, you really are the best. You have been the source of countless smiles, laughs, positive feelings. At least in the short time we had together, I hope you enjoyed having us as humans as we enjoyed you, good doggie. Don't lose hope, at the very least we'd get to visit you within two years.
 
+## Snaps
+
 ![](/assets/img/1807/20180712-ashleys.jpg "Ashley's")
 ![](/assets/img/1807/20180712-peace.jpg "Peace")
 ![](/assets/img/1807/20180712-sotm.jpg "SOTM")
@@ -32,6 +34,5 @@ At that moment, I realized that there was nothing else I can do. I broke down. I
 ![](/assets/img/1807/20180713-crawl.jpg "Crawl")
 ![](/assets/img/1807/20180713-skype.jpg "Skype")
 ![](/assets/img/1807/20180714-bowtie.jpg "Bow Tie")
-
 
 [back](/blog)

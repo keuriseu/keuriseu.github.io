@@ -12,6 +12,8 @@ This week although not in photos was the farewell from Facers. I appreciate thei
 
 It has been tiring commuting to Ansan. Seeing this house makes me realize how important space is. I have stayed too long in small houses. Mother in law has been great, and so are Soyeon's other relatives. I wish I got to know them better. 
 
+## Snaps
+
 ![](/assets/img/1807/20180701-pepper.jpg "Miss Pepper")
 ![](/assets/img/1807/20180704-tiringday.jpg "Tiring Day")
 ![](/assets/img/1807/20180706-bestspeaker.jpg "Best Speaker")

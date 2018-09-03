@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Incorporate Impact"
+TITLE = "KWEST Morocco"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

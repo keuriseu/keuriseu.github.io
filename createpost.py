@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "KWEST Morocco"
+TITLE = "Opening Week"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

@@ -45,6 +45,8 @@ Tomorrow we set for Morocco. Just bring it.
 ![](/assets/img/1808/20180821-unwacky.jpg "Unwacky")
 ![](/assets/img/1808/20180822-plastuckteam.jpg "Pla-stuck")
 ![](/assets/img/1808/20180823-aceforimpact.jpg "ACE for impact")
+![](/assets/img/1808/20180823-sid1.jpg "Official Photo 1")
+![](/assets/img/1808/20180823-sid2.jpg "Official Photo 2")
 ![](/assets/img/1808/20180824-cim.jpg "CIM")
 ![](/assets/img/1808/20180824-kelloggbegins.jpg "Kellogg Begins")
 

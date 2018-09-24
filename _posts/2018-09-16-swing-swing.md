@@ -23,6 +23,7 @@ A lot of things happen throughout the week. We're only getting started.
 ![](/assets/img/1809/20180910-joy.jpg "Joy ")
 ![](/assets/img/1809/20180910-pullback.jpg "Pullback")
 ![](/assets/img/1809/20180910-swing.jpg "Swing")
+![](/assets/img/1809/20180910-swinggif.gif "Swing GIF")
 ![](/assets/img/1809/20180915-asleep.jpg "Asleep")
 ![](/assets/img/1809/20180915-closingtime.jpg "Closing Time")
 ![](/assets/img/1809/20180915-familytrip.jpg "Family Trip")
@@ -31,5 +32,6 @@ A lot of things happen throughout the week. We're only getting started.
 ![](/assets/img/1809/20180915-museum.jpg "Museum")
 ![](/assets/img/1809/20180915-statues.jpg "Statues")
 ![](/assets/img/1809/20180915-trex.jpg "T-Rex")
+![](/assets/img/1809/20180915-fieldgif.gif "Field GIF")
 
 [back](/blog)

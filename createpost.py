@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Swing Swing"
+TITLE = "Damn Tired"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

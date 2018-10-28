@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Kellogg Time Warp"
+TITLE = "Reality Bites"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

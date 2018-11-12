@@ -4,7 +4,7 @@ DIR = 'assets/img/'
 MON = '1811/'
 
 PRE = '![](/'
-SUF = ' "")'
+SUF = ' ".")'
 
 def main():
     flist = os.listdir(DIR+MON)

@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "The Big Easy"
+TITLE = "Lake View"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

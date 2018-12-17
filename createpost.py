@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Closing Time"
+TITLE = "Welcome to Miami"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

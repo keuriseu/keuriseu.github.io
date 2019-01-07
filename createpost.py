@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Unwritten"
+TITLE = "Let's Get Ready to Rumble"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

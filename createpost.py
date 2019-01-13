@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Let's Get Ready to Rumble"
+TITLE = "Rip the Band Aid OFfs"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Rip the Band Aid OFfs"
+TITLE = "Orochimaru Curse Mark"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

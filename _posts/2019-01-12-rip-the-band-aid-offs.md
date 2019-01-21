@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Rip the Band Aid OFfs
+title:  Rip the Band Aid Off
 date:  2019-01-12 17:38:43 -0500
 categories: blog 
 tags: 

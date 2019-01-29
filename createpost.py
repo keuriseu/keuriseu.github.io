@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Orochimaru Curse Mark"
+TITLE = "Hallelujah"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

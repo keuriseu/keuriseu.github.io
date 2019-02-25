@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Heart's Week"
+TITLE = "Story Time"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

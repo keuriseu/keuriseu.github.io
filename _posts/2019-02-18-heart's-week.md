@@ -10,6 +10,8 @@ I'm late for this post.
 
 Nothing much happening. Sean keeps growing. I'm studying. Soyeon learns how to cook in the oven.
 
+I had a migraine which came after the midterms. My eyes started twitching involuntarily. I should have seen it coming. It knocked me out one whole day.
+
 ## Snaps
 
 ![](/assets/img/1902/20180210-sean.jpg ".")

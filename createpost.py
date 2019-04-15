@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Birthday Boy"
+TITLE = "Post Season"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "More of the Same"
+TITLE = "Goldfish Memory"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "What"
+TITLE = "Drinking From a Fire Hose"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

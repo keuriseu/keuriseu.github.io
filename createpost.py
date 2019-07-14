@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Stranger Things"
+TITLE = "4 Weeks In"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

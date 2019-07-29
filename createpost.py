@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "4 Weeks In"
+TITLE = "Crunch Time"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

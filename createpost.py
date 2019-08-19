@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Kaizen"
+TITLE = "Showtime"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

@@ -1,6 +1,6 @@
 import datetime
 
-TITLE = "Ikuzo"
+TITLE = "Negotiation Fundamentals"
 DIR = '_posts/'
 DATENOW = datetime.datetime.now()
 SUF = ".md"

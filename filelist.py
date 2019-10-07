@@ -1,7 +1,7 @@
 import os
 
 DIR = 'assets/img/'
-MON = '1909/'
+MON = '1910/'
 
 PRE = '![](/'
 SUF = ' ".")'
